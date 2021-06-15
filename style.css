@@ -1,0 +1,75 @@
+body{
+margin: 0;
+width: 100%;
+min-height: 100vh;
+background-color: #112233;
+     
+}
+
+.titulo{
+    align-items: center;
+    background-image: url("https://images.hdqwalls.com/download/rick-and-morty-uy-2048x1152.jpg");
+    background-position: 30% 75%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 40vh;
+    margin: 0 0 10vh 0;
+    position: relative;
+}
+ h1{
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 80px;
+    letter-spacing: 5px;  
+    margin: 0;
+    text-align: center;
+}
+
+.card-personagens{
+    align-items: center;
+    display: flex;
+    font-family: 'Permanent Marker', cursive; 
+    justify-content: center;
+    height: 100%;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    margin: 0px 2px;
+
+}
+
+.A{
+    border-radius: 5px;
+    background-color: white;
+    height: 350px;    
+    padding: 10px;
+    margin: 12px;
+    
+}
+
+.B{
+    border-radius: 5px;
+    background-color: white;
+    height: 350px;     
+    padding: 10px;
+    margin: 12px;
+    
+}
+
+.C{
+    border-radius: 5px;
+    background-color: white;
+    height: 350px;     
+    padding: 10px;
+    margin: 12px;
+}
+
+.D{
+    border-radius: 5px;
+    background-color: white;
+    height: 350px;      
+    padding: 10px;
+    margin: 12px;
+}
